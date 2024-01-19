@@ -1,0 +1,23 @@
+.Home {
+  margin-bottom: 5%;
+}
+
+.data-table {
+  border-collapse: collapse;
+  text-align: center;
+  margin: auto;
+  margin-top: 10px;
+  padding: 10px;
+  width: 90%;
+  background-color: yellowgreen;
+}
+
+th,
+td {
+  padding: 5px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+}
